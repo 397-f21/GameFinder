@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { useData } from "./firebase.js";
+import { useData } from "./utilities/firebase.js";
+import PlatformList from "./components/PlatformList";
 
 const App = () => {
   const [data, loading, error] = useData("/");
@@ -8,7 +9,9 @@ const App = () => {
   if (error) return <h1>{error}</h1>;
   if (loading) return <h1>Loading the schedule...</h1>;
 
-  return <div className="App"></div>;
+  return <div className="App">
+    <PlatformList/>
+  </div>;
 };
 
 export default App;

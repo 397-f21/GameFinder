@@ -3,13 +3,9 @@ import Card from './Card.js';
 import "../App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const plats = ["pc", "xbox", "ps"];
+const plats = ["win", "mac", "linux"];
 
-const PlatformList = () => {
-  const [plat, setPlat] = useState([]);
-  const [selected, setSelected] = useState([]);
- 
-
+const PlatformList = ({selected,setSelected}) => {
   return (
     <div className='platform-flexbox'>
       <h2>Platforms</h2>

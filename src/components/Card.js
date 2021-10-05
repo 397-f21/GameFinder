@@ -11,7 +11,7 @@ const Card = ({ value, selected, setSelected }) => {
     <div
       className="platform card m-1 p-2"
       style={style}
-      onClick={() => setSelected(toggle(value, selected))}
+      onClick={() => setSelected(value)}
     >
       <div className="card-body">
         <div className="card-title">{value}</div>

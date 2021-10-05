@@ -3,21 +3,20 @@ import "./App.css";
 import { useData } from "./utilities/firebase.js";
 import PlatformList from "./components/PlatformList";
 import GameList from "./components/GameList";
+import React, { useState } from "react";
 
 const App = () => {
   const [data, loading, error] = useData("/");
-
+  const [selected, setSelected] = useState([]);
   if (error) return <h1>{error}</h1>;
   if (loading) return <h1>Loading...</h1>;
-
-  console.log(data, "data");
 
   return (
     <div className="App">
       <h1 className="app-title">GameFinder</h1>
       <div className="app-content">
-        <PlatformList />
-        <GameList games={data} />
+        <PlatformList selected={selected} setSelected={setSelected}/>
+        <GameList games={data} selected={selected}/>
       </div>
     </div>
   );

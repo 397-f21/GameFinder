@@ -3,11 +3,12 @@ import GameCard from "./GameCard";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const GameList = ({ games }) => {
+const GameList = ({ games, selected}) => {
+  const filter = games.filter((i) => i.platforms.includes(selected))
   return (
     <div className="game-flexbox">
       <h2>Games</h2>
-      {Object.values(games).map((game) => (
+      {Object.values(filter).map((game) => (
         <GameCard game={game} />
       ))}
     </div>

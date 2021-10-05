@@ -1,15 +1,11 @@
-const toggle = (x, lst) => (
-  lst.includes(x) ? lst.filter(y => y !== x) : [x, ...lst]
-);
+const toggle = (x, lst) =>
+  lst.includes(x) ? lst.filter((y) => y !== x) : [x, ...lst];
 
 const Card = ({ value, selected, setSelected }) => {
   const isSelected = selected.includes(value);
-  
+
   const style = {
-    backgroundColor: isSelected
-      ? "lightgreen"
-      : "white"
-      
+    backgroundColor: isSelected ? "lightgreen" : "white",
   };
   return (
     <div
@@ -18,9 +14,7 @@ const Card = ({ value, selected, setSelected }) => {
       onClick={() => setSelected(toggle(value, selected))}
     >
       <div className="card-body">
-        <div className="card-title">
-          {value}
-        </div>
+        <div className="card-title">{value}</div>
       </div>
     </div>
   );

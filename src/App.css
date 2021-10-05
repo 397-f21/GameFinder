@@ -1,11 +1,22 @@
+.app-content {
+  display: flex;
+  flex-direction: row;
+}
+
 .app-title {
   text-align: center;
+}
+
+.game-flexbox {
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 50%;
 }
 
 .platform-flexbox {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   width: 50%;
 }
 

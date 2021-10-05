@@ -9,9 +9,12 @@ const App = () => {
   if (error) return <h1>{error}</h1>;
   if (loading) return <h1>Loading the schedule...</h1>;
 
-  return <div className="App">
+  return (
+  <div className="App">
+    <h1 className="app-title">GameFinder</h1>
     <PlatformList/>
-  </div>;
+  </div>
+  );
 };
 
 export default App;

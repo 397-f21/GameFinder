@@ -1,36 +1,12 @@
 import React, { useState } from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const plats = ["pc", "xbox", "ps"];
-
-const PlatformButton = ({ plat, setPlat, checked }) => (
-  <>
-    {/* <input
-      type="checkbox"
-      id={plat}
-      className="btn-check"
-      autoComplete="off"
-      checked={checked}
-      onChange={() => setPlat(plat)}
-    /> */}
-
-    <label class="btn btn-success m-1 p-2" htmlFor={plat}>
-      {plat}
-    </label>
-  </>
-);
 
 const PlatformSelector = ({ plat, setPlat }) => (
   <div className="btn-group">
     <select name="platforms" id="platforms" multiple>
-      {Object.values(plats).map((value) => (
-        //   <PlatformButton
-        //     key={value}
-        //     plat={value}
-        //     setPlat={setPlat}
-        //     checked={value === plat}
-        //   />
-        <option value={value}>{value}</option>
-      ))}
+     
     </select>
   </div>
 );
@@ -38,19 +14,47 @@ const PlatformSelector = ({ plat, setPlat }) => (
 const PlatformList = () => {
   const [plat, setPlat] = useState([]);
   const [selected, setSelected] = useState([]);
-  //   const termCourses = Object.values(courses).filter(
-  //     (course) => term === getCourseTerm(course)
-  //   );
+ 
 
   return (
     <>
-      <PlatformSelector plat={plat} setPlat={setPlat} />
+     {Object.values(plats).map((value) => (
+    <Platform plat={value} selected={selected} setSelected={setSelected}/>
+          ))}
       {/* <div className="plat-list">
         {plats.map((p) => (
           <li>{p}</li>
         ))}
       </div> */}
     </>
+  );
+};
+
+const toggle = (x, lst) => (
+  lst.includes(x) ? lst.filter(y => y !== x) : [x, ...lst]
+);
+
+const Platform = ({ plat, selected, setSelected }) => {
+  const isSelected = selected.includes(plat);
+  
+  const style = {
+    backgroundColor: isSelected
+      ? "lightgreen"
+      : "white"
+      
+  };
+  return (
+    <div
+      className="card m-1 p-2"
+      style={style}
+      onClick={() => setSelected(toggle(plat, selected))}
+    >
+      <div className="card-body">
+        <div className="card-title">
+          {plat}
+        </div>
+      </div>
+    </div>
   );
 };
 

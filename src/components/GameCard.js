@@ -3,10 +3,10 @@ const toggle = (x, lst) =>
 
 const GameCard = ({ game }) => {
   return (
-    <div className="platform card m-1 p-2">
-      <div className="card-body">
-        <div className="card-title">{game.title}</div>
-        <img src={game.image} />
+    <div className="game-card">
+      <div className="game-card-body">
+        <img className="game-card-image" src={game.image} />
+        <div className="game-card-title">{game.title}</div>
       </div>
     </div>
   );

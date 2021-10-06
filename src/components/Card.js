@@ -2,7 +2,7 @@ const toggle = (x, lst) =>
   lst.includes(x) ? lst.filter((y) => y !== x) : [x, ...lst];
 
 const Card = ({ value, selected, setSelected }) => {
-  const isSelected = selected.includes(value);
+  const isSelected = selected.includes(value); // toggle(value, selected)
 
   const style = {
     backgroundColor: isSelected ? "lightgreen" : "white",

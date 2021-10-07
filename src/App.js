@@ -13,7 +13,8 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="app-title">GameFinder</h1>
+      
+      <h1 className="app-title"> <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Play-Games-icon.png" width="80" height="80"/>GameFinder</h1>
       <div className="app-content">
         <PlatformList selected={selected} setSelected={setSelected} />
         <GameList games={data} selected={selected} />

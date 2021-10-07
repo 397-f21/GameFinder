@@ -11,7 +11,9 @@ const GameList = ({games, selected}) => {
 
   return (
     <div className="game-flexbox">
-      <h2>Games</h2>
+      
+      <h2>{ selected=='' ? '' : 'Games'} </h2>
+
       {Object.values(gameFilter).map((game, i) => (
         <GameCard key={i} game={game} />
       ))}

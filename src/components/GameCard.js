@@ -5,8 +5,8 @@ const GameCard = ({game}) => {
   return (
     <div className="game-card">
       <div className="game-card-body">
-        <img className="game-card-image" src={game.image} alt={game.title} />
-        <div className="game-card-title">{game.title} </div>
+        <img className="card-img-top" src={game.image} alt={game.title} />
+        <div className="card-title">{game.title} </div>
       </div>
     </div>
   );

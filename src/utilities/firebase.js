@@ -1,7 +1,9 @@
 // Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-import React, { useState, useEffect } from "react";
-import { getDatabase, onValue, ref, set } from "firebase/database";
+import {initializeApp} from "firebase/app";
+// import React, { useState, useEffect } from "react";
+import {useState, useEffect} from "react";
+// import { getDatabase, onValue, ref, set } from "firebase/database";
+import {getDatabase, onValue, ref} from "firebase/database";
 
 const firebaseConfig = {
   apiKey: "AIzaSyBIaEIRPGgPKxTkz9UhytAZrUshaxBIvlQ",
@@ -9,7 +11,7 @@ const firebaseConfig = {
   projectId: "gamefinder-b76b7",
   storageBucket: "gamefinder-b76b7.appspot.com",
   messagingSenderId: "858403292092",
-  appId: "1:858403292092:web:e52cab68026243139da1b9",
+  appId: "1:858403292092:web:e52cab68026243139da1b9"
 };
 
 // Initialize Firebase
@@ -30,7 +32,7 @@ export const useData = (path, transform) => {
     }
     return onValue(
       dbRef,
-      (snapshot) => {
+      snapshot => {
         const val = snapshot.val();
         if (devMode) {
           console.log(val);
@@ -39,7 +41,7 @@ export const useData = (path, transform) => {
         setLoading(false);
         setError(null);
       },
-      (error) => {
+      error => {
         setData(null);
         setLoading(false);
         setError(error);

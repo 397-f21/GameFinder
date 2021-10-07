@@ -1,9 +1,9 @@
-import logo from "./logo.svg";
+//import logo from "./logo.svg";
 import "./App.css";
-import { useData } from "./utilities/firebase.js";
+import {useData} from "./utilities/firebase.js";
 import PlatformList from "./components/PlatformList";
 import GameList from "./components/GameList";
-import React, { useState } from "react";
+import React, {useState} from "react";
 
 const App = () => {
   const [data, loading, error] = useData("/");
@@ -15,8 +15,8 @@ const App = () => {
     <div className="App">
       <h1 className="app-title">GameFinder</h1>
       <div className="app-content">
-        <PlatformList selected={selected} setSelected={setSelected}/>
-        <GameList games={data} selected={selected}/>
+        <PlatformList selected={selected} setSelected={setSelected} />
+        <GameList games={data} selected={selected} />
       </div>
     </div>
   );

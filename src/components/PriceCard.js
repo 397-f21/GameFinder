@@ -1,7 +1,6 @@
 const toggle = (x, sel) => (x === sel ? undefined : x);
 
 const PriceCard = ({ value, selected, setSelected }) => {
-  //   const isSelected = selected.includes(value); // toggle(value, selected)
 
   const style = {
     backgroundColor: selected === value ? "lightgreen" : "white",

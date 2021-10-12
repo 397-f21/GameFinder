@@ -1,5 +1,4 @@
-const toggle = (x, lst) =>
-  lst.includes(x) ? lst.filter((y) => y !== x) : [x, ...lst];
+const toggle = (x, sel) => (x === sel ? undefined : x);
 
 const PriceCard = ({ value, selected, setSelected }) => {
   //   const isSelected = selected.includes(value); // toggle(value, selected)
@@ -12,7 +11,7 @@ const PriceCard = ({ value, selected, setSelected }) => {
     <div
       className="platform card m-1 p-2"
       style={style}
-      onClick={() => setSelected(value)}
+      onClick={() => setSelected(toggle(value, selected))}
     >
       <div className="card-body">
         <div className="card-title">{"Below $" + value}</div>

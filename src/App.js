@@ -20,6 +20,7 @@ const App = () => {
         {" "}
         <img
           src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Play-Games-icon.png"
+          alt="Game Controller Icon"
           width="80"
           height="80"
         />

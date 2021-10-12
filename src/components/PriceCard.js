@@ -1,18 +1,18 @@
 const toggle = (x, lst) =>
   lst.includes(x) ? lst.filter((y) => y !== x) : [x, ...lst];
 
-const Card = ({ value, selected, setSelected }) => {
-  const isSelected = selected.includes(value); // toggle(value, selected)
+const PriceCard = ({ value, selected, setSelected }) => {
+  //   const isSelected = selected.includes(value); // toggle(value, selected)
 
   const style = {
-    backgroundColor: isSelected ? "lightgreen" : "white",
+    backgroundColor: selected === value ? "lightgreen" : "white",
   };
-
+  console.log(selected);
   return (
     <div
       className="platform card m-1 p-2"
       style={style}
-      onClick={() => setSelected(toggle(value, selected))}
+      onClick={() => setSelected(value)}
     >
       <div className="card-body">
         <div className="card-title">{value}</div>
@@ -21,4 +21,4 @@ const Card = ({ value, selected, setSelected }) => {
   );
 };
 
-export default Card;
+export default PriceCard;

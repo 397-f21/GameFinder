@@ -1,20 +1,20 @@
 import React from "react";
-import Card from "./Card.js";
+import PriceCard from "./PriceCard.js";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const prices = [[0,10],[11,20],[21,30],[31,40],[41,50],[51,60]];
+const prices = [10, 20, 30, 40, 50, 60];
 
-const PriceList = ({selected, setSelected}) => {
+const PriceList = ({ priceSelected, setPriceSelected }) => {
   return (
     <div className="platform-flexbox">
       <h2>Price Ranges</h2>
       {Object.values(prices).map((value, i) => (
-        <Card
+        <PriceCard
           key={i}
-          value={value[0] + '-' + value[1]}
-          selected={selected}
-          setSelected={setSelected}
+          value={value}
+          selected={priceSelected}
+          setSelected={setPriceSelected}
         />
       ))}
     </div>

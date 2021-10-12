@@ -15,7 +15,7 @@ const PriceCard = ({ value, selected, setSelected }) => {
       onClick={() => setSelected(value)}
     >
       <div className="card-body">
-        <div className="card-title">{value}</div>
+        <div className="card-title">{"Below $" + value}</div>
       </div>
     </div>
   );

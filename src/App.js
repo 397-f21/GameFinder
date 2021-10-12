@@ -2,6 +2,7 @@
 import "./App.css";
 import {useData} from "./utilities/firebase.js";
 import PlatformList from "./components/PlatformList";
+import PriceList from "./components/PriceList";
 import GameList from "./components/GameList";
 import React, {useState} from "react";
 
@@ -16,7 +17,10 @@ const App = () => {
       
       <h1 className="app-title"> <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Play-Games-icon.png" width="80" height="80"/>GameFinder</h1>
       <div className="app-content">
-        <PlatformList selected={selected} setSelected={setSelected} />
+        <div className="app-filters">
+          <PlatformList selected={selected} setSelected={setSelected} />
+          <PriceList selected={selected} setSelected={setSelected} />
+        </div>
         <GameList games={data} selected={selected} />
       </div>
     </div>

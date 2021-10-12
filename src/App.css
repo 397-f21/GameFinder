@@ -1,6 +1,12 @@
 .app-content {
   display: flex;
   flex-direction: row;
+  margin-left: 100px;
+}
+
+.app-filters {
+  display: flex;
+  flex-direction: column;
 }
 
 .app-title {

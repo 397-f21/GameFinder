@@ -1,514 +1,513 @@
-[
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1747960/capsule_184x69.jpg?t=1633357008",
-            "title": "Planet Zoo: North America Animal Pack",
-            "price": "$9.99",
-            "tags": [
-                  "Simulation",
-                  "Strategy",
-                  "Casual",
-                  "Management"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568590/capsule_184x69.jpg?t=1633290408",
-            "title": "Goose Goose Duck",
-            "price": "Free To Play",
-            "tags": [
-                  "Casual",
-                  "Multiplayer",
-                  "2D",
-                  "Conversation"
-            ],
-            "platforms": [
-                  "win",
-                  "mac"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1330470/capsule_184x69.jpg?t=1633359654",
-            "title": "F.I.S.T.: Forged In Shadow Torch",
-            "price": "$26.99",
-            "tags": [
-                  "Metroidvania",
-                  "Action",
-                  "2D Platformer",
-                  "Platformer"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/469600/capsule_184x69.jpg?t=1633370628",
-            "title": "Legion TD 2 - Multiplayer Tower Defense",
-            "price": "$15.99",
-            "tags": [
-                  "Tower Defense",
-                  "Auto Battler",
-                  "Multiplayer",
-                  "Strategy"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1506830/capsule_184x69.jpg?t=1633113405",
-            "title": "FIFA 22",
-            "price": "$59.99",
-            "tags": [
-                  "Soccer",
-                  "Football",
-                  "Sports",
-                  "Simulation"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1506830/capsule_184x69.jpg?t=1633113405",
-            "title": "FIFA 22",
-            "price": "$59.99",
-            "tags": [
-                  "Soccer",
-                  "Football",
-                  "Sports",
-                  "Simulation"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1506830/capsule_184x69.jpg?t=1633113405",
-            "title": "FIFA 22",
-            "price": "$59.99",
-            "tags": [
-                  "Soccer",
-                  "Football",
-                  "Sports",
-                  "Simulation"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1182620/capsule_184x69.jpg?t=1633045914",
-            "title": "Impostor Factory",
-            "price": "$8.99",
-            "tags": [
-                  "Indie",
-                  "Adventure",
-                  "RPG",
-                  "Story Rich"
-            ],
-            "platforms": [
-                  "win",
-                  "mac",
-                  "linux"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1271700/capsule_184x69.jpg?t=1633106893",
-            "title": "HOT WHEELS UNLEASHED\u2122",
-            "price": "$49.99",
-            "tags": [
-                  "Racing",
-                  "Arcade",
-                  "Third Person",
-                  "Split Screen"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1271700/capsule_184x69.jpg?t=1633106893",
-            "title": "HOT WHEELS UNLEASHED\u2122",
-            "price": "$49.99",
-            "tags": [
-                  "Racing",
-                  "Arcade",
-                  "Third Person",
-                  "Split Screen"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1271700/capsule_184x69.jpg?t=1633106893",
-            "title": "HOT WHEELS UNLEASHED\u2122",
-            "price": "$49.99",
-            "tags": [
-                  "Racing",
-                  "Arcade",
-                  "Third Person",
-                  "Split Screen"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/capsule_184x69.jpg?t=1632981986",
-            "title": "MELTY BLOOD: TYPE LUMINA",
-            "price": "$49.99",
-            "tags": [
-                  "2D Fighter",
-                  "Action",
-                  "2D",
-                  "Multiplayer"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/488860/capsule_184x69.jpg?t=1632953027",
-            "title": "MADNESS: Project Nexus",
-            "price": "$22.49",
-            "tags": [
-                  "Action",
-                  "Gore",
-                  "Violent",
-                  "Hack and Slash"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/915600/capsule_184x69.jpg?t=1633280491",
-            "title": "Them and Us",
-            "price": "$35.99",
-            "tags": [
-                  "Action",
-                  "Violent",
-                  "Indie",
-                  "Gore"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1622100/capsule_184x69.jpg?t=1633113833",
-            "title": "Outer Wilds - Echoes of the Eye",
-            "price": "$13.49",
-            "tags": [
-                  "Adventure",
-                  "Action",
-                  "Horror",
-                  "Mystery"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063730/capsule_184x69.jpg?t=1632842444",
-            "title": "New World",
-            "price": "$39.99",
-            "tags": [
-                  "Massively Multiplayer",
-                  "MMORPG",
-                  "Open World",
-                  "Adventure"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063730/capsule_184x69.jpg?t=1632842444",
-            "title": "New World",
-            "price": "$39.99",
-            "tags": [
-                  "Massively Multiplayer",
-                  "MMORPG",
-                  "Open World",
-                  "Adventure"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1119980/capsule_184x69.jpg?t=1632833857",
-            "title": "In Sound Mind",
-            "price": "$29.74",
-            "tags": [
-                  "Horror",
-                  "Psychological Horror",
-                  "Story Rich",
-                  "Action"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1481400/capsule_184x69.jpg?t=1633350394",
-            "title": "Dagon: by H. P. Lovecraft",
-            "price": "Free",
-            "tags": [
-                  "Horror",
-                  "Lovecraftian",
-                  "Atmospheric",
-                  "Visual Novel"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1552550/capsule_184x69.jpg?t=1632450154",
-            "title": "Castlevania Advance Collection",
-            "price": "$19.99",
-            "tags": [
-                  "Action",
-                  "Metroidvania",
-                  "Action-Adventure",
-                  "2D Platformer"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1352850/capsule_184x69.jpg?t=1633004818",
-            "title": "Citystate II",
-            "price": "$24.99",
-            "tags": [
-                  "Casual",
-                  "City Builder",
-                  "Economy",
-                  "Sandbox"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/757310/capsule_184x69.jpg?t=1632401986",
-            "title": "Sable",
-            "price": "$24.99",
-            "tags": [
-                  "Exploration",
-                  "Open World",
-                  "Story Rich",
-                  "Indie"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1129580/capsule_184x69_alt_assets_15.jpg?t=1633172602",
-            "title": "Medieval Dynasty",
-            "price": "$34.99",
-            "tags": [
-                  "Survival",
-                  "Building",
-                  "Open World",
-                  "Medieval"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1766730/capsule_184x69.jpg?t=1633028982",
-            "title": "CS:GO - Operation Riptide",
-            "price": "$14.99",
-            "tags": [
-                  "Action",
-                  "Free to Play",
-                  "Shooter",
-                  "Multiplayer"
-            ],
-            "platforms": [
-                  "win",
-                  "mac",
-                  "linux"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/699130/capsule_184x69.jpg?t=1632791473",
-            "title": "World War Z: Aftermath",
-            "price": "$39.99",
-            "tags": [
-                  "Action",
-                  "Zombies",
-                  "Online Co-Op",
-                  "Co-op"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1472560/capsule_184x69.jpg?t=1633036956",
-            "title": "I Am Fish",
-            "price": "$19.99",
-            "tags": [
-                  "Adventure",
-                  "Simulation",
-                  "Physics",
-                  "3D Platformer"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714320/capsule_184x69.jpg?t=1632273833",
-            "title": "Find Love or Die Trying",
-            "price": "Free To Play",
-            "tags": [
-                  "Dating Sim",
-                  "Visual Novel",
-                  "Free to Play",
-                  "Casual"
-            ],
-            "platforms": [
-                  "win",
-                  "mac"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/977880/capsule_184x69.jpg?t=1632288834",
-            "title": "Eastward",
-            "price": "$24.99",
-            "tags": [
-                  "Pixel Graphics",
-                  "Adventure",
-                  "Singleplayer",
-                  "Story Rich"
-            ],
-            "platforms": [
-                  "win",
-                  "mac"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568940/capsule_184x69.jpg?t=1632800830",
-            "title": "\u82b1\u5996\u7269\u8bed/Flower girl",
-            "price": "Free To Play",
-            "tags": [
-                  "Sexual Content",
-                  "Free to Play",
-                  "Nudity",
-                  "Hentai"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1149620/capsule_184x69.jpg?t=1633361544",
-            "title": "Gas Station Simulator",
-            "price": "$19.99",
-            "tags": [
-                  "Simulation",
-                  "Indie",
-                  "Economy",
-                  "Building"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1118310/capsule_184x69.jpg?t=1633296784",
-            "title": "RetroArch",
-            "price": "Free",
-            "tags": [
-                  "Free to Play",
-                  "Retro",
-                  "Software",
-                  "Multiplayer"
-            ],
-            "platforms": [
-                  "win",
-                  "linux"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252330/capsule_184x69.jpg?t=1633010221",
-            "title": "DEATHLOOP",
-            "price": "$59.99",
-            "tags": [
-                  "FPS",
-                  "Action",
-                  "First-Person",
-                  "Shooter"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/740130/capsule_184x69.jpg?t=1632698351",
-            "title": "Tales of Arise",
-            "price": "$59.99",
-            "tags": [
-                  "Anime",
-                  "JRPG",
-                  "RPG",
-                  "Action"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/740130/capsule_184x69.jpg?t=1632698351",
-            "title": "Tales of Arise",
-            "price": "$59.99",
-            "tags": [
-                  "Anime",
-                  "JRPG",
-                  "RPG",
-                  "Action"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/936790/capsule_184x69.jpg?t=1632773341",
-            "title": "Life is Strange: True Colors",
-            "price": "$59.99",
-            "tags": [
-                  "Choices Matter",
-                  "Female Protagonist",
-                  "Choose Your Own Adventure",
-                  "Multiple Endings"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      },
-      {
-            "image": "https://cdn.akamai.steamstatic.com/steam/apps/1390350/capsule_184x69.jpg?t=1631170818",
-            "title": "Webbed",
-            "price": "$9.99",
-            "tags": [
-                  "2D Platformer",
-                  "Cute",
-                  "Physics",
-                  "Puzzle Platformer"
-            ],
-            "platforms": [
-                  "win"
-            ]
-      }
+[{
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1097130/capsule_184x69.jpg?t=1634058276",
+    "platforms": [
+      "win"
+    ],
+    "price": 19.99,
+    "tags": [
+      "Racing",
+      "Driving",
+      "Sports",
+      "Automobile Sim"
+    ],
+    "title": "Circuit Superstars",
+    "url": "https://store.steampowered.com/app/1097130/Circuit_Superstars/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721470/capsule_184x69.jpg?t=1634054041",
+    "platforms": [
+      "win"
+    ],
+    "price": 4.99,
+    "tags": [
+      "Horror",
+      "Puzzle",
+      "First-Person",
+      "Singleplayer"
+    ],
+    "title": "Poppy Playtime",
+    "url": "https://store.steampowered.com/app/1721470/Poppy_Playtime/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/924970/capsule_184x69.jpg?t=1634067791",
+    "platforms": [
+      "win"
+    ],
+    "price": 59.99,
+    "tags": [
+      "Zombies",
+      "Action",
+      "Online Co-Op",
+      "Multiplayer"
+    ],
+    "title": "Back 4 Blood",
+    "url": "https://store.steampowered.com/app/924970/Back_4_Blood/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/830370/capsule_184x69.jpg?t=1634027705",
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "price": 19.99,
+    "tags": [
+      "JRPG",
+      "Turn-Based Combat",
+      "Collectathon",
+      "Exploration"
+    ],
+    "title": "Monster Crown",
+    "url": "https://store.steampowered.com/app/830370/Monster_Crown/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1664350/capsule_184x69.jpg?t=1634053740",
+    "platforms": [
+      "win"
+    ],
+    "price": 0.0,
+    "tags": [
+      "Casual",
+      "Strategy",
+      "Simulation",
+      "Education"
+    ],
+    "title": "Ship Graveyard Simulator: Prologue",
+    "url": "https://store.steampowered.com/app/1664350/Ship_Graveyard_Simulator_Prologue/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/990630/capsule_184x69.jpg?t=1633945652",
+    "platforms": [
+      "win"
+    ],
+    "price": 13.49,
+    "tags": [
+      "Adventure",
+      "Puzzle",
+      "Singleplayer",
+      "Emotional"
+    ],
+    "title": "The Last Campfire",
+    "url": "https://store.steampowered.com/app/990630/The_Last_Campfire/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/985830/capsule_184x69.jpg?t=1633509968",
+    "platforms": [
+      "win"
+    ],
+    "price": 24.99,
+    "tags": [
+      "Sexual Content",
+      "Nudity",
+      "Gore",
+      "Female Protagonist"
+    ],
+    "title": "SUCCUBUS",
+    "url": "https://store.steampowered.com/app/985830/SUCCUBUS/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1414850/capsule_184x69.jpg?t=1634078339",
+    "platforms": [
+      "win"
+    ],
+    "price": 49.99,
+    "tags": [
+      "Multiplayer",
+      "2D Fighter",
+      "Cartoon",
+      "Action"
+    ],
+    "title": "Nickelodeon All-Star Brawl",
+    "url": "https://store.steampowered.com/app/1414850/Nickelodeon_AllStar_Brawl/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1316910/capsule_184x69.jpg?t=1633565703",
+    "platforms": [
+      "win"
+    ],
+    "price": 29.99,
+    "tags": [
+      "Action",
+      "Platformer",
+      "Colorful",
+      "Controller"
+    ],
+    "title": "Super Monkey Ball Banana Mania",
+    "url": "https://store.steampowered.com/app/1316910/Super_Monkey_Ball_Banana_Mania/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/469600/capsule_184x69.jpg?t=1633792418",
+    "platforms": [
+      "win"
+    ],
+    "price": 19.99,
+    "tags": [
+      "Tower Defense",
+      "Auto Battler",
+      "Multiplayer",
+      "Strategy"
+    ],
+    "title": "Legion TD 2 - Multiplayer Tower Defense",
+    "url": "https://store.steampowered.com/app/469600/Legion_TD_2__Multiplayer_Tower_Defense/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1506830/capsule_184x69.jpg?t=1633113405",
+    "platforms": [
+      "win"
+    ],
+    "price": 59.99,
+    "tags": [
+      "Soccer",
+      "Sports",
+      "Football",
+      "Simulation"
+    ],
+    "title": "FIFA 22",
+    "url": "https://store.steampowered.com/app/1506830/FIFA_22/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1271700/capsule_184x69.jpg?t=1633106893",
+    "platforms": [
+      "win"
+    ],
+    "price": 49.99,
+    "tags": [
+      "Racing",
+      "Arcade",
+      "Split Screen",
+      "Third Person"
+    ],
+    "title": "HOT WHEELS UNLEASHED\u2122",
+    "url": "https://store.steampowered.com/app/1271700/HOT_WHEELS_UNLEASHED/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1372280/capsule_184x69.jpg?t=1633950577",
+    "platforms": [
+      "win"
+    ],
+    "price": 49.99,
+    "tags": [
+      "2D Fighter",
+      "Action",
+      "2D",
+      "Anime"
+    ],
+    "title": "MELTY BLOOD: TYPE LUMINA",
+    "url": "https://store.steampowered.com/app/1372280/MELTY_BLOOD_TYPE_LUMINA/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/488860/capsule_184x69.jpg?t=1633799189",
+    "platforms": [
+      "win"
+    ],
+    "price": 24.99,
+    "tags": [
+      "Action",
+      "Gore",
+      "Violent",
+      "Hack and Slash"
+    ],
+    "title": "MADNESS: Project Nexus",
+    "url": "https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063730/capsule_184x69.jpg?t=1633984525",
+    "platforms": [
+      "win"
+    ],
+    "price": 39.99,
+    "tags": [
+      "Massively Multiplayer",
+      "MMORPG",
+      "Open World",
+      "Adventure"
+    ],
+    "title": "New World",
+    "url": "https://store.steampowered.com/app/1063730/New_World/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1481400/capsule_184x69.jpg?t=1633350394",
+    "platforms": [
+      "win"
+    ],
+    "price": 0.0,
+    "tags": [
+      "Horror",
+      "Lovecraftian",
+      "Atmospheric",
+      "Visual Novel"
+    ],
+    "title": "Dagon: by H. P. Lovecraft",
+    "url": "https://store.steampowered.com/app/1481400/Dagon_by_H_P_Lovecraft/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714040/capsule_184x69.jpg?t=1633434503",
+    "platforms": [
+      "win",
+      "linux"
+    ],
+    "price": 0.0,
+    "tags": [
+      "Auto Battler",
+      "Strategy",
+      "Asynchronous Multiplayer",
+      "Multiplayer"
+    ],
+    "title": "Super Auto Pets",
+    "url": "https://store.steampowered.com/app/1714040/Super_Auto_Pets/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1552550/capsule_184x69.jpg?t=1632450154",
+    "platforms": [
+      "win"
+    ],
+    "price": 19.99,
+    "tags": [
+      "Action",
+      "Metroidvania",
+      "Action-Adventure",
+      "2D Platformer"
+    ],
+    "title": "Castlevania Advance Collection",
+    "url": "https://store.steampowered.com/app/1552550/Castlevania_Advance_Collection/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1129580/capsule_184x69.jpg?t=1633636297",
+    "platforms": [
+      "win"
+    ],
+    "price": 34.99,
+    "tags": [
+      "Survival",
+      "Building",
+      "Open World",
+      "Medieval"
+    ],
+    "title": "Medieval Dynasty",
+    "url": "https://store.steampowered.com/app/1129580/Medieval_Dynasty/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1672970/capsule_184x69.jpg?t=1632517447",
+    "platforms": [
+      "win"
+    ],
+    "price": 19.99,
+    "tags": [
+      "Action",
+      "Dungeon Crawler",
+      "Adventure",
+      "Hack and Slash"
+    ],
+    "title": "Minecraft Dungeons",
+    "url": "https://store.steampowered.com/app/1672970/Minecraft_Dungeons/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1766730/capsule_184x69.jpg?t=1633028982",
+    "platforms": [
+      "win",
+      "mac",
+      "linux"
+    ],
+    "price": 14.99,
+    "tags": [
+      "Action",
+      "Free to Play",
+      "Shooter",
+      "Multiplayer"
+    ],
+    "title": "CS:GO - Operation Riptide",
+    "url": "https://store.steampowered.com/app/1766730/CSGO__Operation_Riptide/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/699130/capsule_184x69.jpg?t=1633522870",
+    "platforms": [
+      "win"
+    ],
+    "price": 39.99,
+    "tags": [
+      "Action",
+      "Zombies",
+      "Online Co-Op",
+      "Co-op"
+    ],
+    "title": "World War Z: Aftermath",
+    "url": "https://store.steampowered.com/app/699130/World_War_Z_Aftermath/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714320/capsule_184x69.jpg?t=1632273833",
+    "platforms": [
+      "win",
+      "mac"
+    ],
+    "price": 0.0,
+    "tags": [
+      "Dating Sim",
+      "Free to Play",
+      "Visual Novel",
+      "Casual"
+    ],
+    "title": "Find Love or Die Trying",
+    "url": "https://store.steampowered.com/app/1714320/Find_Love_or_Die_Trying/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/977880/capsule_184x69.jpg?t=1632288834",
+    "platforms": [
+      "win",
+      "mac"
+    ],
+    "price": 24.99,
+    "tags": [
+      "Pixel Graphics",
+      "Adventure",
+      "Singleplayer",
+      "Story Rich"
+    ],
+    "title": "Eastward",
+    "url": "https://store.steampowered.com/app/977880/Eastward/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1149620/capsule_184x69.jpg?t=1633974974",
+    "platforms": [
+      "win"
+    ],
+    "price": 19.99,
+    "tags": [
+      "Simulation",
+      "Indie",
+      "Building",
+      "Economy"
+    ],
+    "title": "Gas Station Simulator",
+    "url": "https://store.steampowered.com/app/1149620/Gas_Station_Simulator/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1118310/capsule_184x69.jpg?t=1633296784",
+    "platforms": [
+      "win",
+      "linux"
+    ],
+    "price": 0.0,
+    "tags": [
+      "Free to Play",
+      "Retro",
+      "Software",
+      "Multiplayer"
+    ],
+    "title": "RetroArch",
+    "url": "https://store.steampowered.com/app/1118310/RetroArch/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252330/capsule_184x69.jpg?t=1633010221",
+    "platforms": [
+      "win"
+    ],
+    "price": 59.99,
+    "tags": [
+      "FPS",
+      "Action",
+      "First-Person",
+      "Shooter"
+    ],
+    "title": "DEATHLOOP",
+    "url": "https://store.steampowered.com/app/1252330/DEATHLOOP/"
+  },
+  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1747960/capsule_184x69.jpg?t=1633357008",
+    "platforms": ["win"],
+    "price": 9.99,
+    "tags": ["Simulation", "Strategy", "Casual", "Management"],
+    "title": "Planet Zoo: North America Animal Pack",
+    "url": "https://store.steampowered.com/app/1747960/Planet_Zoo_North_America_Animal_Pack/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568590/capsule_184x69.jpg?t=1633290408",
+    "platforms": ["win", "mac"],
+    "price": 0,
+    "tags": ["Casual", "Multiplayer", "2D", "Conversation"],
+    "title": "Goose Goose Duck",
+    "url": "https://store.steampowered.com/app/1568590/Goose_Goose_Duck/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1330470/capsule_184x69.jpg?t=1633359654",
+    "platforms": ["win"],
+    "price": 29.99,
+    "tags": ["Metroidvania", "Action", "2D Platformer", "Platformer"],
+    "title": "F.I.S.T.: Forged In Shadow Torch",
+    "url": "https://store.steampowered.com/app/1330470/FIST_Forged_In_Shadow_Torch/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1182620/capsule_184x69.jpg?t=1633045914",
+    "platforms": ["win", "mac", "linux"],
+    "price": 9.99,
+    "tags": ["Indie", "Adventure", "RPG", "Story Rich"],
+    "title": "Impostor Factory",
+    "url": "https://store.steampowered.com/app/1182620/Impostor_Factory/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1271700/capsule_184x69.jpg?t=1633106893",
+    "platforms": ["win"],
+    "price": 49.99,
+    "tags": ["Racing", "Arcade", "Third Person", "Split Screen"],
+    "title": "HOT WHEELS UNLEASHED™",
+    "url": "https://store.steampowered.com/app/1271700/HOT_WHEELS_UNLEASHED/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/915600/capsule_184x69.jpg?t=1633280491",
+    "platforms": ["win"],
+    "price": 39.99,
+    "tags": ["Action", "Violent", "Indie", "Gore"],
+    "title": "Them and Us",
+    "url": "https://store.steampowered.com/app/915600/Them_and_Us/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1622100/capsule_184x69.jpg?t=1633113833",
+    "platforms": ["win"],
+    "price": 14.99,
+    "tags": ["Adventure", "Action", "Horror", "Mystery"],
+    "title": "Outer Wilds - Echoes of the Eye",
+    "url": "https://store.steampowered.com/app/1622100/Outer_Wilds__Echoes_of_the_Eye/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1352850/capsule_184x69.jpg?t=1633004818",
+    "platforms": ["win"],
+    "price": 24.99,
+    "tags": ["Casual", "City Builder", "Economy", "Sandbox"],
+    "title": "Citystate II",
+    "url": "https://store.steampowered.com/app/1352850/Citystate_II/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/757310/capsule_184x69.jpg?t=1632401986",
+    "platforms": ["win"],
+    "price": 24.99,
+    "tags": ["Exploration", "Open World", "Story Rich", "Indie"],
+    "title": "Sable",
+    "url": "https://store.steampowered.com/app/757310/Sable/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568940/capsule_184x69.jpg?t=1632800830",
+    "platforms": ["win"],
+    "price": 0,
+    "tags": ["Sexual Content", "Free to Play", "Nudity", "Hentai"],
+    "title": "花妖物语/Flower girl",
+    "url": "https://store.steampowered.com/app/1568940/Flower_girl/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1149620/capsule_184x69.jpg?t=1633361544",
+    "platforms": ["win"],
+    "price": 19.99,
+    "tags": ["Simulation", "Indie", "Economy", "Building"],
+    "title": "Gas Station Simulator",
+    "url": "https://store.steampowered.com/app/1149620/Gas_Station_Simulator/"
+  },  {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252330/capsule_184x69.jpg?t=1633010221",
+    "platforms": ["win"],
+    "price": 59.99,
+    "tags": ["FPS", "Action", "First-Person", "Shooter"],
+    "title": "DEATHLOOP",
+    "url": "https://store.steampowered.com/app/1252330/DEATHLOOP/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1462570/capsule_184x69.jpg?t=1633020563",
+    "platforms": ["win"],
+    "price": 29.99,
+    "tags": ["Action", "Adventure", "Action-Adventure", "Exploration"],
+    "title": "Lost in Random™",
+    "url": "https://store.steampowered.com/app/1462570/Lost_in_Random/"
+  }, {
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/740130/capsule_184x69.jpg?t=1632698351",
+    "platforms": ["win"],
+    "price": 59.99,
+    "tags": ["Anime", "JRPG", "RPG", "Action"],
+    "title": "Tales of Arise",
+    "url": "https://store.steampowered.com/app/740130/Tales_of_Arise/"
+  }
 ]

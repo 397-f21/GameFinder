@@ -1,7 +1,6 @@
 .app-content {
   display: flex;
   flex-direction: row;
-  /* margin-left: 100px; */
   justify-content: space-around;
 }
 
@@ -14,36 +13,34 @@
   text-align: center;
 }
 
-.game-card {
-  flex-direction: column;
-  /* flex-wrap: wrap; */
-  display: flex;
-}
-
-.game-card > * {
-  flex: 50px;
-  /* display: inline-block; */
-}
+/* Game Card Styling */
 
 .game-card-body {
-  display: flex;
-  flex-direction: column;
+  width: 200px;
   align-items: center;
-  border-style: solid;
-  border-width: thin;
-  margin: 15px;
-  margin-right: 40%;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
 }
-
-.game-card-image {
+.game-card-img {
+  height: auto;
+  width: auto;
   margin: 10px;
 }
+.game-card-title {
+  margin-left: 20px;
+}
 
-.game-flexbox {
+.game-card-flex {
+  display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  width: 50%;
+  flex-wrap: wrap;
+}
+.game-card-flex:hover {
+  background-color: rgba(90, 87, 87, 0.2);
+}
+
+.game-card-flex > * {
+  flex: 50px;
 }
 
 .platform-flexbox {

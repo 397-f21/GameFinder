@@ -3,7 +3,7 @@ import GameCard from "./GameCard";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const GameList = ({games, selected, priceSelected}) => {
+const GameList = ({games, selected, priceSelected, tagSelected}) => {
   const filterGames = listGames => {
     var items = listGames;
     for (let i = 0; i < selected.length; i++) {
@@ -12,6 +12,12 @@ const GameList = ({games, selected, priceSelected}) => {
     if (priceSelected) {
       items = items.filter(g => g.price <= priceSelected);
     }
+    if (tagSelected) {
+      for (let i = 0; i < tagSelected.length; i++) {
+        items = items.filter(g => g.tags.includes(tagSelected[i]));
+      }
+    }
+
     return items;
   };
 

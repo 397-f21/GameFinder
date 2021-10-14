@@ -1,16 +1,17 @@
 //import logo from "./logo.svg";
 import "./App.css";
-import { useData } from "./utilities/firebase.js";
+import {useData} from "./utilities/firebase.js";
 import PlatformList from "./components/PlatformList";
 import PriceList from "./components/PriceList";
 import GameList from "./components/GameList";
-import React, { useState } from "react";
+import TagList from "./components/TagList";
+import React, {useState} from "react";
 
 const App = () => {
   const [data, loading, error] = useData("/");
   const [selected, setSelected] = useState([]);
   const [priceSelected, setPriceSelected] = useState(undefined);
-
+  const [tagSelected, setTagSelected] = useState([]);
   if (error) return <h1>{error}</h1>;
   if (loading) return <h1>Loading...</h1>;
 
@@ -33,11 +34,13 @@ const App = () => {
             priceSelected={priceSelected}
             setPriceSelected={setPriceSelected}
           />
+          <TagList tagSelected={tagSelected} setTagSelected={setTagSelected} />
         </div>
         <GameList
           games={data}
           selected={selected}
           priceSelected={priceSelected}
+          tagSelected={tagSelected}
         />
       </div>
     </div>

@@ -1,16 +1,28 @@
 .app-content {
   display: flex;
   flex-direction: row;
-  margin-left: 100px;
+  /* margin-left: 100px; */
+  justify-content: space-around;
 }
 
 .app-filters {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .app-title {
   text-align: center;
+}
+
+.game-card {
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+  display: flex;
+}
+
+.game-card > * {
+  flex: 50px;
+  /* display: inline-block; */
 }
 
 .game-card-body {

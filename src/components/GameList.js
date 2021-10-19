@@ -8,17 +8,35 @@ const GameList = ({ games, selected, priceSelected, tagSelected }) => {
     var items = listGames;
     for (let i = 0; i < selected.length; i++) {
       items = items.filter((g) => g.platforms.includes(selected[i]));
+
     }
     if (priceSelected) {
       items = items.filter((g) => g.price <= priceSelected);
+      console.log(items);
     }
-    if (tagSelected) {
-      for (let i = 0; i < tagSelected.length; i++) {
-        items = items.filter((g) => g.tags.includes(tagSelected[i]));
+    var items2 = []; 
+    console.log (tagSelected);
+    if (tagSelected.length > 0) {
+      for (let i = 0; i < items.length; i++) {
+        for (let j = 0; j < tagSelected.length; j++){
+         if(items[i].tags.includes (tagSelected[j]))
+         {
+         items2.push (items[i]);
+         break;
+         }
+
+        }
+       
       }
+     
+    }
+  
+    else{
+      console.log("please print something");
+        return items;
     }
 
-    return items;
+    return items2;
   };
 
   return (

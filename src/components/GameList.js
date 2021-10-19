@@ -38,13 +38,14 @@ const GameList = ({ games, selected, priceSelected, tagSelected }) => {
 
   const filterGamesList = filterGames(games)
   
-  
   return (
-    <div>
+    <div className="game-list">
       <h2>{filterGamesList.length === 0 ? "No Games found" : "Games"} </h2>
-      {Object.values(filterGames(games)).map((game, i) => (
-        <GameCard key={i} game={game} />
-      ))}
+      <div className="grid">
+        {Object.values(filterGames(games)).map((game, i) => (
+          <GameCard key={i} game={game} />
+        ))}
+      </div>
     </div>
   );
 };

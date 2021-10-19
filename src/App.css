@@ -43,6 +43,10 @@
   flex: 50px;
 }
 
+.game-title {
+  text-align: center;
+}
+
 .platform-flexbox {
   display: flex;
   flex-direction: column;

@@ -33,7 +33,7 @@ const GameList = ({ games, selected, priceSelected, tagSelected }) => {
 
   return (
     <div className="game-list">
-      <h2>{filterGamesList.length === 0 ? "No Games found" : "Games"} </h2>
+      <h2 className="game-title">{filterGamesList.length === 0 ? "No Games Found" : "Available Steam Games"} </h2>
       <div className="grid">
         {Object.values(filterGames(games)).map((game, i) => (
           <GameCard key={i} game={game} />

@@ -12,10 +12,8 @@ const GameList = ({ games, selected, priceSelected, tagSelected }) => {
     }
     if (priceSelected) {
       items = items.filter((g) => g.price <= priceSelected);
-      console.log(items);
     }
     var items2 = []; 
-    console.log (tagSelected);
     if (tagSelected.length > 0) {
       for (let i = 0; i < items.length; i++) {
         for (let j = 0; j < tagSelected.length; j++){
@@ -32,16 +30,18 @@ const GameList = ({ games, selected, priceSelected, tagSelected }) => {
     }
   
     else{
-      console.log("please print something");
         return items;
     }
-
+    
     return items2;
   };
 
+  const filterGamesList = filterGames(games)
+  
+  
   return (
     <div>
-      <h2>{selected === "" ? "" : "Games"} </h2>
+      <h2>{filterGamesList.length === 0 ? "No Games found" : "Games"} </h2>
       {Object.values(filterGames(games)).map((game, i) => (
         <GameCard key={i} game={game} />
       ))}

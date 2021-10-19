@@ -10,6 +10,7 @@ const PlatformList = ({selected, setSelected}) => {
   return (
     <div className="platform-flexbox">
       <h2>Platforms</h2>
+      <h6 className="subtitle">Select all that apply</h6>
       {Object.values(plats).map((value, i) => (
         <Card
           key={i}

@@ -6,11 +6,11 @@ import "../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const tags = [
+  "Free to Play",
   "Action",
   "Multiplayer",
   "Adventure",
   "Simulation",
-  "Free to Play",
   "Open World",
   "Third Person",
   "Strategy",
@@ -21,6 +21,7 @@ const TagList = ({tagSelected, setTagSelected}) => {
   return (
     <div className="platform-flexbox">
       <h2>Tags</h2>
+      <h6 className="subtitle">Select all that apply</h6>
       {Object.values(tags).map((value, i) => (
         <TagCard
           key={i}

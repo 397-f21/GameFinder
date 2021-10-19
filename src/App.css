@@ -56,8 +56,16 @@
   align-items: center;
 }
 
+.subtitle {
+  text-align: center;
+}
+
 /* Game Grid Styling */
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(12rem, 17rem));
+}
+
+.game-list {
+  width: 50%;
 }

@@ -9,6 +9,7 @@ const PriceList = ({ priceSelected, setPriceSelected }) => {
   return (
     <div className="platform-flexbox">
       <h2>Prices</h2>
+      <h6 className="subtitle">Select one price range</h6>
       {Object.values(prices).map((value, i) => (
         <PriceCard
           key={i}

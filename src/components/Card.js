@@ -8,6 +8,12 @@ const Card = ({ value, selected, setSelected }) => {
     backgroundColor: isSelected ? "lightgreen" : "white",
   };
 
+  const platDict = {
+    "win": "Windows",
+    "mac": "Mac OS",
+    "linux": "Linux"
+  }
+
   return (
     <div
       className="platform card m-1 p-2"
@@ -15,7 +21,7 @@ const Card = ({ value, selected, setSelected }) => {
       onClick={() => setSelected(toggle(value, selected))}
     >
       <div className="card-body">
-        <div className="card-title">{value}</div>
+        <div className="card-title">{platDict[value]}</div>
       </div>
     </div>
   );
